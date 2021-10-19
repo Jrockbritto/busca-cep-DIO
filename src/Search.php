@@ -1,6 +1,6 @@
 <?php 
 
-namespace Workspace\DIO\PHP;
+namespace buscacepDIO;
 
 class Search{
     private $url = "https://viacep.com.br/ws/";
