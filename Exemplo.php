@@ -2,7 +2,7 @@
 
 require_once "vendor/autoload.php";
 
-use Workspace\DIO\PHP\Search;
+use buscacepDIO\Search;
 
 $busca = new Search;
 
